@@ -2,7 +2,7 @@
 
 In this assessment, we were required to choose own dataset, ask the right questions and find out solutions. The process involved cleaning the data, visualizing and modelling using appropriate tools. 
 
-Some of the outcomes Assessed were: 
+Some of the learning outcomes assessed: 
 1. Perform basic statistical inference tasks involving various forms of hypothesis test for one and two samples using statistical software.
 2. Describe and apply basic concepts and methods of correlation and simple linear regression and use computer software for relevant calculations.
 3. Analyse statistical problems under conditions of uncertainty and devise appropriate responses.
